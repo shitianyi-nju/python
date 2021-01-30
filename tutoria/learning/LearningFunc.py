@@ -56,3 +56,6 @@ def func_2(a, *numbers, **testNumbers):
 print(func_2(10,1,2,3,Jack=1123,John=2231,Inge=1560))
 
 help(print)
+
+
+#yinghuahui
